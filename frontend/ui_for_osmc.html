@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OSMC Admin Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <form id="loginForm" method="POST">
+      <div class="logo">
+        <img src="logo.png" alt="OSMC Logo">
+        <h2>OSMC ADMIN</h2>
+      </div>
+      <input
+        type="email"
+        id="loginAdminEmail"
+        name="email"
+        placeholder="Email"
+        required
+      />
+      <input
+        type="password"
+        id="loginPassword"
+        name="password"
+        placeholder="Password"
+        required
+      />
+      <!-- Replaced input type="submit" with button tag -->
+      <button type="submit">Login</button>
+
+      <!-- Added div to display login error -->
+      <div id="loginError" class="error"></div>
+
+      <p class="forgot-password">
+        Forgot your password?<br /><br />
+        <a href="forgot_password.html" id="forgotPasswordLink">Reset here</a>
+        <!-- Added href attribute with the URL of the new HTML page -->
+      </p>
+    </form>
+  </div>
+
+  <!-- Changed src attribute to link to the JavaScript code -->
+  <script src="script.js"></script>
+</body>
+</html>

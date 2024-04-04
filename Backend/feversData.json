@@ -1,0 +1,1250 @@
+[
+  {
+    "fid": 0,
+    "fever_type": "Typhoid",
+    "Causative_Agent": "Salmonella typhi",
+    "Symptoms": [
+      "Fever",
+      "Headache",
+      "Chills",
+      "Cough",
+      "Seating",
+      "My Algia",
+      "Arenthralgia",
+      "Rashes(rose spots)",
+      "Hepatosplenomegaly",
+      "Epistaxis",
+      "Bradycardia",
+      "Nausea",
+      "Abdominal pain",
+      "Muttering Dekirium",
+      "Hysteria",
+      "Paranoid Psychosis"
+    ],
+    "vector": "It is transmitted through contaminated food and water (bacterrium salmonella typhi",
+    "Complications": [
+      "Intestinal Perforation",
+      "Gastrointestinal bleeding",
+      "Pneumonia",
+      "Encephalitis"
+    ],
+    "Treatment": ["Rest", "Fluids", "Symptomatic relief medications"],
+    "allopathy": ["Ciprofloxcin", "Azithromycin", "Ceftraiaxone"],
+    "homeopathy": [
+      "Baptisia 200",
+      "Bryonia 200",
+      "Rhus tox 200",
+      "Acid Mur 200"
+    ],
+    "ayurvedic": [
+      "GiloyGhan Vati",
+      "neem capsule or neem juice",
+      "Tulasi(Holy Basil)Tablets",
+      "Ginger and Turmeric powder",
+      "Mahasudharshan Chusrna or Tablets"
+    ],
+    "imagePath": "/images/img_ellipse_142_73x90.png"
+  },
+  {
+    "fid": 1,
+    "fever_type": "Epidemic typhus(plague/outbreaks)",
+    "Causative_Agent": "Rickettsia prowazekii",
+    "Symptoms": ["Fever", "Headache", "Myalgia", "Eye discharge rashes"],
+    "vector": "human body louse(pediculus human us corporis)",
+    "Complications": ["Interstitial preumonitis", "Mental confusion", "Coma"],
+    "Treatment": [
+      "Avoiding overcroweded areas(Body lice thrive areas)",
+      "Be more hygenic"
+    ],
+    "allopathy": "Doxycyclin",
+    "homeopathy": ["Rhus Tox 200", "Eup perf 200", "Belladonna 200"],
+    "ayurvedic": [
+      "Sudarshan churna",
+      "Mahasudharshan churna",
+      "Amritarishta",
+      "Tribhuvan kirti ras",
+      "Kaishore guggulu"
+    ],
+    "imagePath":"/images/img_ellipse_149_61x63.png"
+  },
+
+  {
+    "fid": 2,
+    "fever_type": "Endemic typhus",
+    "Causative_Agent": "Rickettis typhi",
+    "Symptoms": [" Fever", "Headache", "Myalagia", "Anorexia", "Rash"],
+    "vector": "ratflea(xenosylla cheopis)",
+    "Complications": [
+      " Kidney damage",
+      "Pneumonia ",
+      "Meningitis",
+      "Liver inflammation"
+    ],
+    "Treatment": [
+      "Avoiding contact with fleas",
+      "Keep rodents and wild animals away from your home",
+      "Remove brush,rockpiles,junk and clutter outside of your "
+    ],
+    "allopathy": " Doxycyclin",
+    "homeopathy": [" Belladonna 200", " Aconite 200 ", "Rhus Tox 200"],
+    "ayurvedic": [
+      "Mahasudarshan Churna",
+      "Tribhuvan Kirti Ras",
+      " Giloy Ghan Vati",
+      "Amrutharishta",
+      "Tulsi (Holy Basil)",
+      "Neem (Azadirachta indica)",
+      "Guduchi (Tinospora cordifolia)",
+      "Chirayata (Swertia chirata)",
+      " Pippali Rasayana",
+      "Sitopaladi Churna"
+    ],
+    "imagePath":"/images/img_image_11.png"
+  },
+
+  {
+    "fid": 3,
+    "fever_type": "Rocky mountain spotted fever",
+    "Causative_Agent": "Species of ticks",
+    "Symptoms": [" Fever", "Headache ", " Rash myalgia ", "Anorexia "],
+    "vector": "ticks(oermacensor,amblyomma)",
+    "Complications": [
+      "Vascular damage ",
+      "Edema ",
+      "Hemorrhage",
+      "Interstitial pneumonitics",
+      "Disseminated intravascular coagulation "
+    ],
+    "Treatment": ["Rest", "Fluids", "Symptomatic relief medications "],
+    "allopathy": ["Doxycycline", " Chloramphenical"],
+    "homeopathy": [
+      "Belladonna 200",
+      " Aconite 200",
+      "Bryonia 200",
+      " Ars Alb 200"
+    ],
+    "ayurvedic": [
+      "Punarnavadi Kwath",
+      " Mahamanjisthadi",
+      " Kashayam",
+      "Sarivadyasav",
+      " Chandanadi Vati",
+      "Panchatikta Ghrita",
+      " Guggulu",
+      "Manjishthadi Churna",
+      " Khadirarishta",
+      " Guduchyadi Kashayam",
+      "Neem Capsules (Azadirachta indica)",
+      " Patoladi Churna"
+    ],
+    "imagePath":"/images/img_ellipse_143_73x84.png"
+  },
+
+  {
+    "fid": 4,
+    "fever_type": "Scrub typhus",
+    "Causative_Agent": "Rickettsia reckettsli",
+    "Symptoms": [" Fever", "Headache", "Rash myalgia", "Anorexia "],
+    "vector": "Ticks(oermacensor,amblyomma)",
+    "Complications": [
+      "Vascular damage",
+      "Edema",
+      "Hemorrhage",
+      "Interstitial pneumonitics",
+      "Disseminated intravascular coagulation "
+    ],
+    "Treatment": ["Rest", "Fluids", "Symptomatic relief medications "],
+    "allopathy": "  Doxycycline",
+    "homeopathy": [
+      "Belladonna 200",
+      "Aconite 200",
+      " Merc Sol 200",
+      "Rhus Tox 200"
+    ],
+    "ayurvedic": [
+      " Rasna saptak kwath",
+      "Sudarshan churna",
+      "Punarnava mandoor",
+      "Mahatiktaka ghritam",
+      "Panchatikta ghrita ",
+      " guggulu",
+      " Triphala guggulu",
+      "Haridra khanda",
+      "Guduchi satva",
+      "Chirayata kwath",
+      "Shatavari ghrita"
+    ],
+    "imagePath":"/images/img_image_12.png"
+  },
+
+  {
+    "fid": 5,
+    "fever_type": "Enrlichiosis",
+    "Causative_Agent": "Aanaplasma phagous to philum",
+    "Symptoms": [
+      "Fever",
+      "Chills",
+      " Severe heaadache",
+      " Muscle aches ",
+      " Nausea",
+      "Vomting ",
+      "Loss of appetite"
+    ],
+    "vector": "Ticks(oermacensor,amblyomma)",
+    "complications": [
+      " Vascular damage",
+      "Edema",
+      "Hemorrhage",
+      " Interstitial pneumonitics",
+      "Disseminated intravascular coagulation "
+    ],
+    "Treatment": [" Rest", "Fluids", "Symptomatic relief medications"],
+    "allopathy": [" Doxycycline", "Rifamoin", "Vibramycin"],
+    "homeopathy": [
+      " Belladonna 200",
+      " Aconite 200",
+      " Merc Sol 200",
+      "Rhus Tox 200",
+      "Bryonia 200"
+    ],
+    "ayurvedic": [
+      "Punarnavadi Kwath",
+      "Gandhak Rasayan",
+      " Chitrakadi Vati",
+      " Khadiradi Vati",
+      " Musta Churna",
+      "Neem Capsules (Azadirachta indica)",
+      "Kutaja Ghana Vati",
+      "Sarivadyasava",
+      "Panchanimbadi Gulika",
+      "Pippalimoola Churna"
+    ],
+    "imagePath":"/images/img_image_13.png"
+  },
+
+  {
+    "fid": 6,
+    "fever_type": "Q fever",
+    "Causative_Agent": "coziella burnetti ",
+    "Symptoms": [
+      "Hepatitics",
+      "Enterstitial pneumnia ",
+      "Fever",
+      "CNS involvement",
+      "Pericarditls",
+      "Endocarditis "
+    ],
+    "vector": "Contacted with infected animals(or) their products,mosquitoes.",
+    "Complications": [
+      "Fever",
+      "Chills or sewats",
+      "Fatigue",
+      "Headache",
+      "Muscle aches",
+      "Nausea,vomting or diarrhea ",
+      "Chest pain",
+      "Stomach pain",
+      "Weight loss",
+      "Non-productive cough "
+    ],
+    "Treatment": ["Rest", "Fluids"],
+    "allopathy": [" Doxycycline", "Hydroxychloroquine"],
+    "homeopathy": ["Belladonna 200", "Bryonia 200", "Nux vom 200"],
+    "ayurvedic": [
+      "Kutaja Ghana Vati",
+      " Gandhak Rasayan",
+      "Musta Churna",
+      "Khadirarishta",
+      "Sarivadyasava",
+      "Panchatikta Ghrita ",
+      "Guggulu",
+      "Amritarishta",
+      "Chitrakadi Vati",
+      "Neem Capsules (Azadirachta indica)",
+      "Guduchi Satva"
+    ],
+    "imagePath":    "/images/img_ellipse_148_71x86.png"
+
+  },
+
+  {
+    "fid": 7,
+    "fever_type": "Trench fever",
+    "Causative_Agent": "Bartonella quintana ",
+    "Symptoms": [
+      "Fever",
+      "Weakness",
+      "Dizziness",
+      "Headache",
+      "Conjunctival injection",
+      "Severe back pain",
+      "Quintana "
+    ],
+    "vector": "mosqutioes/bites,lice",
+    "Complications": ["Fever", "Chills", "Severe heaadache", "Muscle aches "],
+    "Treatment": ["Rest", "Hydration"],
+    "allopathy": "Doxycycline",
+    "homeopathy": [" Eup perf 200", "Gelsemium", "Bryonia 200", "Rhus Tox 200"],
+    "ayurvedic": [
+      " Khadirarishta",
+      "Punarnavadi Kwath",
+      "Sarivadyasava",
+      "Panchanimbadi Gulika",
+      "Gandhak Rasayan",
+      "Kutaja Ghana Vati",
+      "Pathyadi Kashayam",
+      "Patoladi Churna",
+      "Guduchi Satva",
+      "Chitrakadi Vati"
+    ],
+    "imagePath":"/images/img_image_14.png"
+  },
+
+  {
+    "fid": 8,
+    "fever_type": "Oroyo fever",
+    "Causative_Agent": "Bartonella quintana",
+    "Symptoms": [
+      "Fever",
+      "Profound anemia",
+      "Muscle and joint pain",
+      "Severe headache "
+    ],
+    "vector": "Injective sand flies",
+    "Complications": ["Severe anemia", "Skin lesions", "Organ failure "],
+    "Treatment": ["Rest", "Hydration"],
+    "allopathy": ["Azithromycin", "Ceftraiaxone"],
+    "homeopathy": [
+      "Bryonia 200",
+      " Belladonna 200",
+      " Hyosyamus 200",
+      "Stramonium 200"
+    ],
+    "ayurvedic": [
+      "Kutaja Ghana Vati",
+      "Rasapachak Gutika",
+      "Khadira Arista",
+      "Patoladi Kashaya",
+      "Brihat Haridra Khanda",
+      "Krimighna Vati",
+      "Bakuchi Churna",
+      "Pippalyasava",
+      "Trayodashanga Guggulu",
+      "Vasa Ghrita"
+    ],
+    "imagePath":"/images/img_image_15.png"
+  },
+  {
+    "fid": 9,
+    "fever_type": "Brucellosis(undulant)",
+    "Causative_Agent": "Brucella melitensis",
+    "Symptoms": [
+      "Fever",
+      "Night sweats",
+      "Hepatosplenomegaly",
+      "Headache",
+      "Diarrhea",
+      "Rash",
+      "Abdominal pain",
+      "Pharungitis ",
+      "Weight loss ",
+      "Lethrgy with meningitis",
+      "Lympocytic",
+      "meningeoncephalicts",
+      "Salpingitis",
+      "Prostatitis "
+    ],
+    "vector": " Injected animals or consumption of couaminated animal products ",
+    "Complications": [
+      "Chronic fatigue",
+      "Joint and muscle pain",
+      "Inflamation heart or liver",
+      "Reproductive issues "
+    ],
+    "Treatment": [
+      "Hydration",
+      "Rest",
+      "Fluids",
+      "Symptomatic relief medications"
+    ],
+    "allopathy": [
+      " Streptomycin",
+      " Ciprofloxacin ",
+      "Sulfamethoxazole",
+      "Tetracycline "
+    ],
+    "homeopathy": [
+      "elladonna 200",
+      "Merc Sol 200",
+      "Nux vomica 200",
+      "China 200"
+    ],
+    "ayurvedic": [
+      "Punarnavadi Kashayam",
+      "khadirarishta",
+      "Sarivadyasava",
+      "Gandhak Rasayan",
+      "Kutaja Ghana Vati",
+      "Patoladi Churna",
+      "Musta Churna",
+      "Krimighna Vati",
+      "Pippalyasava",
+      "Haridra Khanda"
+    ],
+    "imagePath":"/images/img_image_16.png"
+  },
+
+  {
+    "fid": 10,
+    "fever_type": "Leptospirosis",
+    "Causative_Agent": "Leptospira interrogans",
+    "Symptoms": [
+      "Fever",
+      "Myalgia ",
+      "Headache ",
+      "Abdominal pain ",
+      "Conjuctival suffusion ",
+      "Vomtings ",
+      "Optic neuitis ",
+      "Pharyneal erythema "
+    ],
+    "vector": " Water or soil contaimated with the urine of injected animals such as rats.",
+    "Complications": [
+      "Kidney damage",
+      "Liver failure ",
+      "Resoiratory disease",
+      "Meningitis "
+    ],
+    "Treatment": [
+      "Not swimming or wading in water that might be contaimated with animal urine (or) potential animals",
+      "Protective clothing or footware should be worn by those exposed to contaminated water or soil"
+    ],
+    "allopathy": ["Doxycycline", "Pencillin"],
+    "homeopathy": [
+      "Belladonna 200",
+      "Rhus Tox 200",
+      " Nux vomica 200",
+      " merc Sol 200"
+    ],
+    "ayurvedic": [
+      "Punarnavadi Kashayam",
+      " Kutaja Ghana Vati",
+      "Sarivadyasava",
+      "Gandhak Rasayan",
+      "Khadirarishta",
+      "Patoladi Churna",
+      "Musta Churna",
+      "Pippalyasava",
+      "Krimighna Vati",
+      "Haridra Khanda"
+    ],
+    "imagePath":"/images/Leptospirpsis.png"
+  },
+
+  {
+    "fid": 11,
+    "fever_type": "Epidemic relapsing",
+    "Causative_Agent": "Borrelia recurrentis",
+    "Symptoms": [
+      "Fever",
+      "Petechiae",
+      "Epistaxity",
+      "Blood-tinged sputum ",
+      "Moringitis ",
+      "Seizure ",
+      "Focal deflicts",
+      "Paraplegia ",
+      "Psychosis "
+    ],
+    "vector": "Body louse pediculus humanus orporis ",
+    "Complications": [
+      "Organ damage such as liver and kodney disfunctions",
+      "Neurological symptoms like meningitis "
+    ],
+    "Treatment": [
+      "Wearing clothing that fully covers the arms and legs",
+      "Insect repllent such as DEET on the skin and clothing also… "
+    ],
+    "allopathy": ["Tetracycline", "Doxycyclin"],
+    "homeopathy": [
+      " Belladonna 200",
+      "Spongia 200",
+      "Gel Semium 200",
+      "Hep Sul 200"
+    ],
+    "ayurvedic": [
+      "Khadirarishta",
+      "Punarnavadi Kashayam",
+      "Sarivadyasava",
+      "Gandhak Rasayan",
+      "Kutaja Ghana Vati",
+      "Patoladi Churna",
+      "Musta Churna",
+      "Pippalyasava",
+      "Krimighna Vati",
+      "Haridra Khanda"
+    ],
+    "imagePath":"/images/img_image_19.png"
+  },
+
+  {
+    "fid": 12,
+    "fever_type": "Lyme fever",
+    "Causative_Agent": "Borrelia burgdorferi",
+    "Symptoms": [
+      "Fever",
+      "Fatigue",
+      "Erythema ",
+      "Migrans ",
+      "Malaise ",
+      "Arthralgia",
+      "Secondary annular skin lesions ",
+      "Neurological abnormalities "
+    ],
+    "vector": "Black-legged ticks",
+    "Complications": [
+      "Joint inflammation",
+      "Neurological problems ",
+      "Heart abnormalities ",
+      "Cognitive difficulties "
+    ],
+    "Treatment": [
+      "To repel ticks,you may want to spray your clothing with permethrin",
+      "Wear light colored clothes to make it easier to detect ticks. "
+    ],
+    "allopathy": ["Ceftraiaxone", "Doxycyclin"],
+    "homeopathy": [
+      "Aconite 200",
+      "Gelsemium 200",
+      " Rhus Tox 200",
+      "Belladonna 200"
+    ],
+    "ayurvedic": [
+      "Punarnavadi Kashayam",
+      "Amritarishta",
+      " Chirayata Kwath",
+      "Sarivadyasava",
+      "Panchatikta Ghrita",
+      "Guggulu",
+      "Kutaja Ghana Vati",
+      "Gandhak Rasayan",
+      "Khadirarishta",
+      "Manjishthadi Kashayam",
+      "Panchanimbadi Gulika"
+    ],
+    "imagePath":"/images/img_image_22.png"
+  },
+
+  {
+    "fid": 13,
+    "fever_type": "Dengue",
+    "Causative_Agent": "Dengue virus(Arbovirus)",
+    "Symptoms": [
+      "High fever",
+      "Muscle and joint pain ",
+      "Severe terminal headache",
+      "Retro orbital pain ",
+      "Hepatomegaly ",
+      "Throbocytopenia ",
+      "Lymphadenopathy ",
+      "Maculopapular rashes "
+    ],
+    "vector": "Aedes aegypti, Aedes albopictus",
+    "Complications": ["Bleeding", "Organ Damage "],
+    "Treatment": [
+      " Use EPA- registered inset repellents that contain 20% to 30% DEET. To keep away Aedes Mosquitos away",
+      "Rest",
+      "Hydration",
+      "Remove Standing Water"
+    ],
+    "allopathy": "Acetaminophen-Pash Relievers",
+    "homeopathy": ["Belladonna 200", "Aconite 200", "Eup perf 200"],
+    "ayurvedic": [
+      "Papaya Leaf Extract",
+      "Giloy (Guduchi)",
+      "Neem",
+      "Tulsi (Holy Basil)",
+      "Triphala Churna"
+    ],
+    "imagePath":"/images/dengue.png"
+  },
+
+  {
+    "fid": 14,
+    "fever_type": "Chikungunya",
+    "Causative_Agent": "Alpha Virus",
+    "Symptoms": ["Fever", "Server Joint Pain", "Headache ", "Tenosynovitis "],
+    "vector": "Aedes Aegypti Mosquito",
+    "Complications": [
+      "Joint Path",
+      "Inflammation",
+      "Swelling that can last for months "
+    ],
+    "Treatment": [
+      "Do not store water in open containers so that they do not became breeding sites for mosquitoes.",
+      "Cut your grass regularly to destroy potential breeding (or) resting sites.",
+      "Use mesh (or) Screens on your windows and doors.",
+      "Rest",
+      "Hydration"
+    ],
+    "allopathy": "Pain Relievers-Acetaminophen ",
+    "homeopathy": [
+      "Eup perf 200",
+      "Rhus Tox 200",
+      "Bryonia 200",
+      "Belladonna 200"
+    ],
+    "ayurvedic": [
+      "Giloy (Guduchi)",
+      "Tulsi (Holy Basil)",
+      "Ashwagandha Churna",
+      "Triphala Churna",
+      "Punarnava Churna"
+    ],
+    "imagePath":"/images/img_image_21.png"
+  },
+
+  {
+    "fid": 15,
+    "fever_type": "Kyasanur Forest fever",
+    "Causative_Agent": "Flaviviridae",
+    "Symptoms": [
+      "Acute High Fever",
+      "Malaise",
+      " Frontal Headache ",
+      "Bleeding from nasal cavity",
+      "Throat ",
+      "Gums",
+      "Gastrointestinal Bleeding"
+    ],
+    "vector": "Hard Ticks",
+    "Complications": [
+      "Hemorrhagic",
+      "Manifestations",
+      "Encephalites",
+      "Multi-Organ Failure "
+    ],
+    "Treatment": [
+      "Supportive therapy includes the maintenance of hydration and usual precaution for patient with bleeding disorders",
+      "Rest",
+      "Hydration "
+    ],
+    "allopathy": "Doxycyclin",
+    "homeopathy": ["Belladonna 200", "Gels 200", "Hamamelis 200"],
+    "ayurvedic": [" Tulsi Capsules", "Giloy Ghan Vati", "Ashwagandha Churna"],
+    "imagePath":"/images/img_image_24.png"
+  },
+
+  {
+    "fid": 16,
+    "fever_type": "Ebola fever",
+    "Causative_Agent": ["Ebola Virus", "Marburg Virus "],
+    "Symptoms": ["Vomiting", " Diarrhea", "Abdominal pain "],
+    "vector": ["Mosquitoes", "Monkeys", "Apes", "Chimpanzee "],
+    "Complications": [
+      "Internal bleeding ",
+      "Hypovolemia",
+      "Electrolyte Abnormalities",
+      "Multi-Organ Failure "
+    ],
+    "Treatment": "Wear light colored clothes to make it easier to detect ticks.",
+    "allopathy": "Doxycyclin",
+    "homeopathy": ["Merc Sol 200", "Nux vomica 200", "Colo 200", "Ars Alb 200"],
+    "ayurvedic": [
+      "Tulsi (Holy Basil)",
+      "Ashwagandha (Withania somnifera)",
+      "Neem (Azadirachta indica)",
+      "Giloy (Tinospora cordifolia)"
+    ],
+    "imagePath":"/images/img_image_23.png"
+  },
+
+  {
+    "fid": 17,
+    "fever_type": "Hantavirus fever",
+    "Causative_Agent": "Bunyaviridae",
+    "Symptoms": "Hemorrhagic Fever with Renal Syndrome Hantavirus Pulmonary Syndrome ",
+    "vector": [" Infected rodents ", "Saliva "],
+    "Complications": [
+      "Difficulty breathing",
+      "Kidney Problems",
+      "Fatigue",
+      "Diarrhea "
+    ],
+    "Treatment": [" Rest", "Fluids"],
+    "allopathy": "Doxycyclin",
+    "homeopathy": [
+      "Belladonna 200",
+      "Merc Sol 200",
+      "Kali Bich 200",
+      "Pulsatilla 200"
+    ],
+    "ayurvedic": [
+      "Sudarshan Churna",
+      "Mahasudarshan Churna",
+      "Talisadi Churna",
+      "Guduchi Ghan Vati",
+      "Sitopaladi Churna",
+      "Amritarishta",
+      "Trikatu Churna",
+      "Chyawanprash"
+    ],
+    "imagePath":"/images/img_ellipse_149.png"
+  },
+
+  {
+    "fid": 18,
+    "fever_type": "Malaria",
+    "Causative_Agent": [
+      "Plasmodium vivax",
+      "Plasmodium ovale",
+      "Plasmodium falciparum",
+      "Plasmodium malaria "
+    ],
+    "Symptoms": [
+      "Fever",
+      "Headache",
+      "Nausea",
+      "Intense cold ",
+      "Chills",
+      "Rigor",
+      "Profuse",
+      "Sweating ",
+      "Anemia",
+      "Splenomegaly "
+    ],
+    "vector": "Female anopheles Mosquito ",
+    "Complications": [
+      "Internal bleeding",
+      "Hypovolemia",
+      "Electrolyte Abnormalities",
+      "Multi-Organ Failure"
+    ],
+    "Treatment": ["Rest", "Hydration", "Remove Standing Water"],
+    "allopathy": [
+      "Chloroquine phospate",
+      "Artemisinin-based combination therapies",
+      "Atovaquone-proguanil(Malarone) ",
+      "Quinine sulfate ",
+      "Primaquine phospate "
+    ],
+    "homeopathy": [
+      " Belladonna 200",
+      "Apis Mel 200",
+      "Bryonia 200",
+      "Hep sul 200"
+    ],
+    "ayurvedic": [
+      "Sudarshan Churna",
+      "Laghu Sutshekhar Ras",
+      "Mahasudarshan Churna",
+      "Pippali Rasayana",
+      "Guduchi Ghan Vati",
+      "Tulsi Ghan Vati",
+      "Sitopaladi Churna",
+      "Swarna Basant Malati"
+    ],
+    "imagePath": "images/img_image_9.png"
+  },
+
+  {
+    "fid": 19,
+    "fever_type": "Visceral Leishmaniasis",
+    "Causative_Agent": ["Leishmania Donavani", "Leishmania Infantum "],
+    "Symptoms": [
+      "Fever",
+      "Progressive Weight Loss",
+      "Splenomegaly",
+      "Hepatomegaly",
+      "Lymphadenopathy"
+    ],
+    "vector": "Infected Female Sandfly (Phlebotomus Argentipes)",
+    "Complications": [
+      "Difficulty breathing",
+      "Kidney Problems",
+      "Fatigue",
+      "Diarrhea "
+    ],
+    "Treatment": ["Eat healthy food", "Rest", "Hydration"],
+    "allopathy": ["Doxycyclin", "Chloroquine phospate"],
+    "homeopathy": [
+      "Belladonna 200",
+      "Aconite 200",
+      "Ars Alb 200",
+      "Rhux Tox 200",
+      "Eup perf 200"
+    ],
+    "ayurvedic": [
+      " Giloy Ghan Vati",
+      "Amla Churna",
+      "Ashwagandha Capsules",
+      "Turmeric Tablets",
+      "Ginger Capsules",
+      "Pippali Rasayana"
+    ],
+    "imagePath":"/images/img_ellipse_142_69x83.png"
+  },
+
+  {
+    "fid": 20,
+    "fever_type": "Chaga's fever",
+    "Causative_Agent": "Trypanosoma Cruci ",
+    "Symptoms": " Painless Edema of the Eye Lid ",
+    "vector": "Reduviid Bug (Feses of this Bug)",
+    "Complications": [
+      "Internal bleeding",
+      "Hypovolemia",
+      "Electrolyte Abnormalities",
+      "Multi-Organ Failure"
+    ],
+    "Treatment": "Sparaying of dwelling and surroundin areas with residual insecticides.",
+    "allopathy": "Doxycyclin",
+    "homeopathy": [
+      "china 200",
+      "Santonine 6x",
+      "Belladonna 200",
+      "Mag Phos 6x"
+    ],
+    "ayurvedic": [
+      "Swarna Malini Vasanta Rasa",
+      "Arjunaarishta",
+      "Kutajarishta",
+      "Bilva (Aegle marmelos)",
+      "Haritaki (Terminalia chebula)",
+      "Gokshura (Tribulus terrestris)",
+      "Musta (Cyperus rotundus)"
+    ],
+    "imagePath":"/images/Chagas_disease.png"
+  },
+
+  {
+    "fid": 21,
+    "fever_type": "Acute Filariasis",
+    "Causative_Agent": "Wuchereria Bancroffi",
+    "Symptoms": [
+      "Filarial Fever (High-Grade Fever)",
+      "Early pitting Edema",
+      "Lymphangitis"
+    ],
+    "vector": ["Cukex Mosquito (Night Time)", "Aedes Mosquito (Day Time)"],
+    "Complications": [
+      "Difficulty breathing",
+      "Kidney Problems",
+      "Fatigue",
+      "Diarrhea "
+    ],
+    "Treatment": ["Eat healthy food", "Rest", "Hydration "],
+    "allopathy": " Doxycyclin",
+    "homeopathy": ["Belladonna 200", "Merc Sol 200", "Nux vomica 200"],
+    "ayurvedic": [
+      "Punarnavadi Kashayam",
+      "Guduchi (Tinospora cordifolia)",
+      "Mahasudarshan Churna",
+      "Tulsi (Holy Basil) Ark",
+      "Pippali (Piper longum)",
+      "Vasarishta",
+      "Chirabilwadi Kashayam"
+    ],
+    "imagePath":"/images/img_image_25.png"
+  },
+
+  {
+    "fid": 22,
+    "fever_type": "Yersiniosis",
+    "Causative_Agent": ["Yersinia", "Enterocolitica "],
+    "Symptoms": ["Acute pain abdomen", "Diarrhea", " Fever", "Leukocytosis "],
+    "vector": "mosquotoes/bites",
+    "Complications": ["Abdominal pain", "Diarrehea", "Sore Throat", "fever "],
+    "Treatment": "keep your hands clean and wash them throughly after handling animal feces. ",
+    "allopathy": [
+      "Trimethoprim-Sulfamethoxazole",
+      "Ceftaxime",
+      "ciproflaxacin"
+    ],
+    "homeopathy": ["Merc sol 200", "Nux vomica 200", "Belladomma 200"],
+    "ayurvedic": [
+      "Amrutharishta",
+      "Vilwadi Gulika",
+      "Lakshmi Vilas Ras",
+      "Khadirarishta",
+      "Chirabilwadi Kashayam"
+    ],
+    "imagePath":"/images/img_ellipse_143_72x88.png"
+  },
+
+  {
+    "fid": 23,
+    "fever_type": "Shigellosis",
+    "Causative_Agent": [
+      "Shigella idysenteriae",
+      "Shigella flexneri",
+      "Shigella boydii "
+    ],
+    "Symptoms": [
+      "Fever",
+      "Watery Diarrhea",
+      "Malaise",
+      "Anorexia",
+      "Vomiting "
+    ],
+    "vector": "Houseflies(Musca domestica)",
+    "Complications": [
+      "Toxic Megacolon",
+      "Vectal Prolapse ",
+      "Hypoglycemia",
+      "Toxic Encephalopathy. "
+    ],
+    "Treatment": ["Rest", "Fluids", "Symptomatic relief medications "],
+    "allopathy": ["Ciprofloxacin", "Azithromycin "],
+    "homeopathy": [
+      "China 200",
+      "Ars Alb 200",
+      "Malaria Off 200",
+      "Nat Mur 200",
+      "Fer Phos 6x"
+    ],
+    "ayurvedic": [
+      "Punarnavadi Kashayam",
+      "Guduchi (Tinospora cordifolia)",
+      "Mahasudarshan Churna",
+      "Tulsi (Holy Basil) Ark",
+      "Pippali (Piper longum)"
+    ],
+    "imagePath":"/images/img_ellipse_149_73x89.png"
+  },
+
+  {
+    "fid": 24,
+    "fever_type": "Camphylobacteriosis",
+    "Causative_Agent": "Bacteria of the genus camphylobacteria.",
+    "Symptoms": [
+      "Fever nausea",
+      "vomiting",
+      "diarrhea",
+      "a swollen liver",
+      "liver function abnormalities",
+      "skin rashes,",
+      "shortness of breath ",
+      "abdominal pain ",
+      "tenderness, lack of appetite",
+      "ascites",
+      "icterus",
+      "weakness"
+    ],
+    "vector": " It is a freshwater snail borne zoonotic .trematodiasis of high pathogenicity and wide veterinary repercuassions.",
+    "Complications": [
+      "Ascending cholangitis,",
+      "holelithiasis",
+      "Cholecystisis",
+      "Pancreatitis",
+      "Biliarycirrhosis",
+      "Hepatic fibrosis"
+    ],
+    "Treatment": ["Rest", "Fluids", "Symptomatic relief medications "],
+    "allopathy": "Trimethoprim ",
+    "homeopathy": ["Belladonna 200", "Merc Sol 200", "Apis mel 200"],
+    "ayurvedic": [
+      "Punarnavadi Kashayam",
+      "Guduchi (Tinospora cordifolia)",
+      "Musta (Cyperus rotundus)",
+      "Daruharidra (Berberis aristata)",
+      "Triphala Churna",
+      "Bilva (Aegle marmelos)",
+      "Kutajarishta"
+    ],
+    "imagePath":"/images/img_ellipse_143_48x79.png"
+  },
+
+  {
+    "fid": 25,
+    "fever_type": "Katayama fever",
+    "Causative_Agent": [
+      "Shigella idysenteriae",
+      "Shigella flexneri",
+      "Shigella boydii "
+    ],
+    "Symptoms": [
+      "Rashes",
+      "itchy",
+      "skin",
+      "fever",
+      "chills",
+      "cough",
+      "headache",
+      "stomach pain",
+      "joint pain",
+      "muscle aches. "
+    ],
+    "vector": "Planorbidae snails are the intermediate hast for the trematode parasite of the schistosoma genus, it affects both humans and cattle",
+    "Complications": [
+      "left untreated",
+      "Late manifestations include proteinuria",
+      "Bladder calcifications",
+      "Obstruction of the uterus"
+    ],
+    "Treatment": ["Rest", "Fluids", "Symptomatic relief medications "],
+    "allopathy": ["Praziquantel", "Oxadiazole 2-oxides", "oxamniquine "],
+    "homeopathy": ["Belladonna 200", "Aconite 200", "Euphrasia 200"],
+    "ayurvedic": [
+      "Punarnavadi Kashayam",
+      "Guduchi (Tinospora cordifolia)",
+      "Mahasudarshan Churna",
+      "Tulsi (Holy Basil) Ark",
+      "Pippali (Piper longum)"
+    ],
+    "imagePath":"/images/img_image_26.png"
+  },
+
+  {
+    "fid": 26,
+    "fever_type": "Ascariasis",
+    "Causative_Agent": ["intestinal nematode", "ascaris lumbricoides"],
+    "Symptoms": [
+      "Abdominal discomfort",
+      "abdominal cramping",
+      "abdominal swelling",
+      "fever, coughing ",
+      "wheezing",
+      "nausea",
+      "vomiting"
+    ],
+    "vector": "Ascaris lives in the intestine and ascaris eggs are passed in the faces of infected persons ,defecates outside(near bushes in a garden or field)",
+    "Complications": [
+      "appendicis",
+      "biliary ascariasis",
+      "perforation of the intestine",
+      "cholecystitis",
+      "pancreatitis",
+      "peritonitis"
+    ],
+    "Treatment": [" Eat healthy food", "Rest", "Hydration "],
+    "allopathy": ["albendazole", "mebendazole", "ivermectin "],
+    "homeopathy": [
+      "Aconite 200",
+      "Belladonna 200",
+      "Nux vomica 200",
+      "Merc Sol 200"
+    ],
+    "ayurvedic": [
+      "Sudarshan Churna",
+      "Guduchi (Tinospora cordifolia)",
+      "Punarnavadi Kashayam",
+      "Tulsi (Holy Basil) Ark",
+      "Mahasudarshan Churna "
+    ],
+    "imagePath":"/images/img_ellipse_143_74x84.png"
+  },
+
+  {
+    "fid": 27,
+    "fever_type": "Yellow fever",
+    "Causative_Agent": "Flaviviridae",
+    "Symptoms": [
+      "Fever",
+      "headache",
+      "nausea",
+      "vomiting",
+      "fatal heart",
+      "liver",
+      "kidney conditions abdomen",
+      "muscle pains ",
+      "chills",
+      "fatigue",
+      " loss of appetite",
+      "bleeding",
+      "delirium",
+      "yellow skin or eyes. "
+    ],
+    "vector": "transmitted to people primarily through the bite infected aedes or haemagogus species mosquitoes.",
+    "Complications": [
+      "Coma",
+      "Death",
+      "Disseminated intravascular coagulation(dic)",
+      "Kidney failure ",
+      "Liver failure",
+      "Salivary gland infection(parotisis) ",
+      "Secondary bacterial infection ",
+      "shock "
+    ],
+    "Treatment": [" Eat healthy food ", "Rest", " Hydration "],
+    "allopathy": [
+      "there is no medicine to treat or cure infection.",
+      "To prevent getting sick from yellow fever use insect repellent , wear long sleeved shirts and long pants."
+    ],
+    "homeopathy": [
+      " Belladonna 200",
+      " Ars Alb 200",
+      "Merc Sol 200",
+      "Hydrocotyle Q"
+    ],
+    "ayurvedic": [
+      "Amalaki Rasayana",
+      "Tulsi Ark (Holy Basil Extract)",
+      "Guduchi Ghan Vati",
+      "Giloy Ghan Vati",
+      "Neem Capsules",
+      "Sitopaladi Churna",
+      "Arogyavardhini Vati"
+    ],
+    "imagePath":"/images/img_ellipse_149_68x68.png"
+  },
+
+  {
+    "fid": 28,
+    "fever_type": "Amoebic liver abscess",
+    "Causative_Agent": "amebic dysentery",
+    "Symptoms": [
+      " Pain in the right upper abdomen or throughout the abdomen ",
+      "clay coloured stools",
+      "dark urine",
+      "fever",
+      "chills",
+      "night sweats",
+      "loss of appetite nausea",
+      "vomiting",
+      "unintentional weight loss",
+      "weakness. "
+    ],
+    "vector": "Amebic liver abscess is the most common extra intestinal manifestation of the protozoan , entamoeba histolytica, it involves consumption of fecally contaminated food and water.",
+    "Complications": [
+      "High fever",
+      "Toxemia ",
+      "Jaundice",
+      "Encephalopathy",
+      "Secondary bacterial infection  "
+    ],
+    "Treatment": ["Rest", "Hydration", "Remove Standing Water"],
+    "allopathy": " Metronidazole",
+    "homeopathy": ["Belladonna 200", "Nux vomica 200", "Colo 200"],
+    "ayurvedic": [
+      "Punarnavadi Kashayam",
+      "Kutajarishta",
+      "Arogyavardhini Vati",
+      "Swarna Parpati",
+      "Nimbadi Kashayam",
+      "Triphala Churna",
+      "Haritak (Terminalia chebula)",
+      "Guduchi (Tinospora cordifolia)"
+    ],
+    "imagePath":"/images/img_ellipse_144.png"
+  },
+
+  {
+    "fid": 29,
+    "fever_type": "Human echinotoccosis",
+    "Causative_Agent": "tapeworm",
+    "Symptoms": [
+      "Abdominal pain",
+      "nausea",
+      "vomiting occurs in the liver",
+      "chronic cough",
+      "chest pain",
+      "shortness of breath"
+    ],
+    "vector": "Alveolar echinococcosis(AE) disease is caused by infection with the larval stages  of echinococcus multiocularsis a 1-4nm long (definitive hosts) .",
+    "Complications": ["Recurrence", "Metastasis", "Infection  "],
+    "Treatment": ["Eat healthy food ", "Rest ", "Hydration"],
+    "allopathy": ["Albendazole", "mebendazole"],
+    "homeopathy": [
+      "Belladonna 200",
+      "Aconite 200",
+      "Pyrogen 200",
+      "Nux vomica 200"
+    ],
+    "ayurvedic": [
+      "Vidanga(Embelia ribes) ",
+      "Kutaja",
+      "Haritaki ",
+      "Pippali(Piper longum)",
+      "Guduchi"
+    ],
+    "imagePath":"/images/img_ellipse_148_61x62.png"
+  },
+
+  {
+    "fid": 30,
+    "fever_type": "Fascioliasis",
+    "Causative_Agent": "Fasciola hepatica ",
+    "Symptoms": [
+      " Fever",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "swollen liver",
+      "liver function abnormalities",
+      "skin rashes",
+      "shortness of breath and abdominal pain ",
+      "lack of appetite",
+      "ascites",
+      "icterus",
+      "weakness"
+    ],
+    "vector": "trematodiasis of high pathogenicity and wide veterinary repercussions. ",
+    "Complications": [
+      "Ascending cholangitis,",
+      "Cholelithiasis",
+      "Cholecystisis ",
+      "Pancreatitis ",
+      "Biliarycirrhosis ",
+      "Hepatic fibrosis "
+    ],
+    "Treatment": [" Eat healthy food", "Rest", "Hydration"],
+    "allopathy": "• Triclabendazole ",
+    "homeopathy": [
+      "Nux vomica 200",
+      "Aconite 200",
+      "Ars Alb 200",
+      "Ipecac 200"
+    ],
+    "ayurvedic": ["vidanga", "Triphala", "neem(Azadirachta indica)", "Pippali"],
+    "imagePath":"/images/img_ellipse_148_58x57.png"
+  },
+
+  {
+    "fid": 31,
+    "fever_type": "Scarlet fever",
+    "Causative_Agent": "Streptococcus pyogenus ",
+    "Symptoms": [
+      "Bright red rash",
+      "a sore throat and high fever",
+      "peeling",
+      "roughness",
+      "skin folds",
+      "fever",
+      "malaise",
+      "enlarged neck",
+      "lymph nodes",
+      "nausea",
+      "swollen  and bumpy tongue that’s red or swollen tonsils. "
+    ],
+    "vector": "Pneumonia, swollen lymph,  lymph nodes in the neck , ear, sinus, and skin infections ,Post streptococcal glomerulonephritis(a kidney disease) ",
+    "Complications": [
+      "Heart attack",
+      "Pneumonia",
+      "swollen lymph",
+      "Post streptococcal glomerulonephritis"
+    ],
+    "Treatment": ["Eat healthy food", "Rest", "Hydration"],
+    "allopathy": [
+      "Penicillin ",
+      "Amoxicillin tablets",
+      "Ibu profen",
+      "Acetaminophen "
+    ],
+    "homeopathy": [
+      "Belladonna 200",
+      "Merc Sol 200",
+      "Colo 200",
+      "Bryonia 200",
+      "Rhux Tox 200"
+    ],
+    "ayurvedic": [
+      "Mahasudarshan churna ",
+      "Chandraprabha vati",
+      "Talisadi Churna",
+      " Sitopaladi churna",
+      " Amrirarishta"
+    ],
+    "imagePath":"/images/img_ellipse_143_82x91.png"
+  }
+]

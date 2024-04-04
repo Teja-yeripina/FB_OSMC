@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display JSON Data</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <table id="json-table">
+        <thead>
+            <tr id="column-headers"></tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        // JSON data received from the backend
+        var jsonData = {
+            "0": {
+                "_id": "65f7286c03e5aa607f10b597",
+                "fid": 5,
+                "fever_type": "Enrlichiosis",
+                "Causative_Agent": [
+                    "Aanaplasma phagous to philum"
+                ],
+                "Symptoms": [
+                    "Fever",
+                    "Chills",
+                    "Severe heaadache",
+                    "Muscle aches",
+                    "Nausea",
+                    "Vomting",
+                    "Loss of appetite"
+                ],
+                "__v": 0
+            },
+            "1": {
+                "_id": "65f7286c03e5aa607f10b596",
+                "fid": 4,
+                "fever_type": "Scrub typhus",
+                "Causative_Agent": [
+                    "Orientia tsutsugamushi"
+                ],
+                "Symptoms": [
+                    "Fever",
+                    "Headache",
+                    "Muscle pain",
+                    "Rash"
+                ],
+                "__v": 0
+            }
+        };
+
+        // Function to create column headers
+        function createColumnHeaders(data) {
+            var headers = "<tr>";
+            for (var field in data) {
+                headers += "<th>" + field + "</th>";
+            }
+            headers += "</tr>";
+            return headers;
+        }
+
+        // Function to create table rows
+        function createTableRow(data) {
+            var row = "<tr>";
+            for (var field in data) {
+                row += "<td>";
+                if (Array.isArray(data[field])) {
+                    row += "<ul>";
+                    data[field].forEach(function(item) {
+                        row += "<li>" + item + "</li>";
+                    });
+                    row += "</ul>";
+                } else {
+                    row += data[field];
+                }
+                row += "</td>";
+            }
+            row += "</tr>";
+            return row;
+        }
+
+        // Populate table with fevers
+        var thead = document.querySelector("#column-headers");
+        var tbody = document.querySelector("#json-table tbody");
+        thead.innerHTML = createColumnHeaders(jsonData["0"]); // Assuming the first fever has all keys
+        for (var key in jsonData) {
+            tbody.innerHTML += createTableRow(jsonData[key]);
+        }
+    </script>
+</body>
+</html>

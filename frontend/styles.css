@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  background-color: #0ebe7f;
+  overflow: hidden; /* Prevent page from scrolling */
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+form {
+  width: 400px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: whitesmoke;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px; /* Add some space between the logo and other inputs */
+}
+
+.logo img {
+  width: 50px; /* Adjust the width of the logo image */
+  margin-right: 10px; /* Add some space between the logo and the h2 tag */
+}
+
+h2 {
+  margin: 0; /* Remove default margin for h2 tag */
+  color: black; /* Color for the h2 tag */
+}
+
+input[type="email"],
+input[type="text"],
+input[type="password"],
+button {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  width: 90%;
+  padding: 10px;
+  margin-top: 10px;
+  border: none;
+  background-color: #0ebe7f; /* Color for buttons */
+  color: #fff;
+  border-radius: 5px;
+  font-size: medium;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
+
+.forgot-password {
+  margin-top: 20px;
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fixed header and left-sidebar</title>
+<style type="text/css">
+ body{
+  margin:0;
+  padding:0;
+ }
+ #header{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%; /* Changed from 500% */
+  height:50px; /* Adjust as needed */
+  background-color: #ccc; /* Example background color */
+ }
+ #left-sidebar{
+  position:fixed;
+  top:50px; /* Height of the header */
+  left:0;
+  width:200px; /* Adjust as needed */
+  height:100%; /* Fill remaining height */
+  background-color: #eee; /* Example background color */
+ }
+ div#content {
+  margin-left: 200px; /* Adjust based on sidebar width */
+  padding-top: 50px; /* Height of the header */
+ }
+</style>
+</head>
+<body>
+<div id="header"> header </div>
+<div id="left-sidebar"> left-sidebar </div>
+<div id="content"> content </div>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OSMC Admin</title>
+  <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+
+  <div class="header">
+    <img src="logo.png" alt="OSMC LOGO" height="50" width="55">
+    <h1> OSMC ADMIN</h1>
+  </div>
+
+  <div class="container">
+    <div class="sidebar">
+      <h2>Functionalities</h2>
+      <ul>
+        <li><a href="#" onclick="showContent('users')">View Users</a></li>
+        <li><a href="#" onclick="showContent('fevers')">View Fevers</a></li>
+        <li><a href="#" onclick="showContent('addFever')">Add or Modify Fever</a></li>
+        <!-- <li><a href="#" onclick="showContent('modifyFever')">Modify Fever</a></li> -->
+        <li><a href="#" onclick="showContent('deleteFever')">Delete Fever</a></li>
+        <li><a href="#" onclick="showContent('logoutConfirmation')">Logout</a></li>
+      </ul>
+    </div>
+
+    <div class="content" id="content-container">
+      <!-- All content areas will be dynamically loaded here -->
+    </div>
+  </div>
+
+  <script src="script1.js"></script>
+</body>
+</html>
