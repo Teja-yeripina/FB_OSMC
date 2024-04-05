@@ -1,0 +1,9 @@
+# Ignore environment-specific files
+.env
+
+# Ignore compiled files
+*.log
+*.exe
+
+# Ignore node_modules directory
+node_modules/
